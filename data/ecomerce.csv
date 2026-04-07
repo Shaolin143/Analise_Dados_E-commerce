@@ -1,0 +1,16 @@
+data,cliente,produto,categoria,quantidade,preco,estado
+2024-02-01,Ana,Notebook,Eletronicos,1,3500,SP
+2024-02-01,João,Mouse,Perifericos,2,80,RJ
+2024-02-02,Carlos,Teclado,Perifericos,1,150,MG
+2024-02-02,Ana,Celular,Eletronicos,1,2000,SP
+2024-02-03,Marina,Cadeira,Moveis,1,900,PR
+2024-02-03,Lucas,Notebook,Eletronicos,1,3500,RS
+2024-02-04,Ana,Fone,Perifericos,3,200,SP
+2024-02-04,João,Monitor,Eletronicos,1,1200,RJ
+2024-02-05,Carlos,Mesa,Moveis,1,700,MG
+2024-02-05,Marina,Celular,Eletronicos,2,2000,PR
+2024-02-06,Lucas,Mouse,Perifericos,5,80,RS
+2024-02-06,Ana,Notebook,Eletronicos,1,3500,SP
+2024-02-07,João,Fone,Perifericos,2,200,RJ
+2024-02-07,Carlos,Monitor,Eletronicos,1,1200,MG
+2024-02-08,Marina,Notebook,Eletronicos,1,3500,PR
