@@ -42,4 +42,4 @@ Para chegar aos resultados, o código realiza as seguintes etapas:
 Com base nos dados, o foco inicial deve ser em São Paulo e Rio Grande do Sul, especialmente na promoção de Eletrônicos, que possuem o melhor retorno financeiro.
 
 # Autor
-Kelvin Henrique [LinkedIn](SEU_LINK_AQUI) | [Email](kelvin.moreira9@outlook.com)
+Kelvin Henrique [LinkedIn](https://www.linkedin.com/in/kelvin-henrique-453278205?utm_source=share_via&utm_content=profile&utm_medium=member_android) | [Email](kelvin.moreira9@outlook.com)
