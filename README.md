@@ -1,30 +1,45 @@
-# Objetivo
-Fazer a analise a fim de identificar padrões de faturamento e vendas, desempenho por estados e categoria de produtos, auxiliando na tomada e decisões.
-# Tecnologias utilizadas
-  -Python
-  -Pandas
-  -Matliplotlib
-  
-# Estrutuda
-  data/ -> base de dados
-  notebook/ -> análise em python
+# Análise de Vendas com Python
+Este projeto analisa dados de vendas para entender o faturamento, o desempenho por região e quais categorias de produtos trazem mais resultados para o negócio.
 
-# Analises realizadas
-  Calculo de faturamento total da empresa
-  Produto que mais faturou
-  Analise de produto com maior número de vendas
-  Levantamento dos clientes que mais compraram
-  Estado com maior faturamento
-  Faturamento por categoria
-  Faturamento por dia
-  Quantidade de compras por cliente
-  Ticket médio
-  
-  # insights obtidos
-- A Ana é o cliente que mais compra OSB: queria colocar o que ela comprou e suas contidades mas nao conseguir juntar mais de 2 coisas no groupby.
-- Os estados com a maior quantidade de vendas são SP e RS, cada um com 6 vendas no total.
-- O produto que gera mais dinheiro são os Eletronicos com um faturamento total de R$22400.
-- Com base nas informações analisadas nos dados, recomendo concentrar o foco nas vendas nos RS e SP onde tem uma concentração maior de vendas, focando principalmente na vendas de produtos eletronicos.
+**Objetivo**
+- Identificar padrões de vendas e faturamento para apoiar decisões estratégicas, como onde investir em marketing e quais produtos destacar.
+
+**Tecnologias**
+- Python (Lógica principal)
+
+- Pandas (Tratamento e análise dos dados)
+
+- Matplotlib (Criação de gráficos)
+
+**Estrutura do Projeto**
+- data/: Contém a base de dados em CSV.
+
+- notebook/: Script com o passo a passo da análise.
+
+**O que foi analisado*
+Para chegar aos resultados, o código realiza as seguintes etapas:
+
+- Cálculo do faturamento total e diário.
+
+- Identificação dos produtos e categorias que mais geram receita.
+
+- Ranking de clientes por volume de compras.
+
+- Desempenho de vendas por estado (SP e RS).
+
+- Cálculo do Ticket Médio (valor médio por venda).
+
+**Insights e Conclusão**
+- Destaque Financeiro: A categoria de Eletrônicos é a mais lucrativa, somando R$ 22.400 em faturamento.
+
+- Volume de Vendas: São Paulo e Rio Grande do Sul concentram a maior parte das vendas (6 vendas cada).
+
+- Cliente Principal: A cliente Ana é a que possui maior frequência de compra e impacto no faturamento.
+
+- Ticket Médio: Embora o número de vendas seja igual em SP e RS, o faturamento varia, o que mostra a importância de olhar para o valor médio gasto em cada região.
+
+**Recomendação**
+Com base nos dados, o foco inicial deve ser em São Paulo e Rio Grande do Sul, especialmente na promoção de Eletrônicos, que possuem o melhor retorno financeiro.
 
 # Autor
-Kelvin Henrique
+Kelvin Henrique [LinkedIn](SEU_LINK_AQUI) | [Email](kelvin.moreira9@outlook.com)
